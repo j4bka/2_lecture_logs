@@ -1,5 +1,4 @@
-// mysyslog.c
-#include "mysyslog.h"
+#include "mylib.h"
 #include <stdio.h>
 #include <string.h>
 
