@@ -1,5 +1,5 @@
-#include "mysyslog.h" 
-
+#include "mylib.h" 
+#include <stdio.h>
 int main() {
     const char* message = "Hello, world!"; // Создаем сообщение для записи в журнал
 
