@@ -18,4 +18,6 @@
 #define FORMAT_PLAIN 0
 #define FORMAT_JSON  1
 
+int mysyslog(const char* msg, int level, int format, const char* path);
+
 #endif
